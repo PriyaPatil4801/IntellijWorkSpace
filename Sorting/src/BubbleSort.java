@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class BubbleSort {
 
-
+//Bubble sort comment by priya
     public static void main(String[] args) {
         int []arr  = {5, 10, 6, 19, 11, 7, 9, 10};
         int size = arr.length;
